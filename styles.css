@@ -2,3 +2,6 @@ body{
     color:firebrick;
     background-color: hotpink;
 }
+header{
+    border-bottom: solid 2px rgb(rgb(255, 0, 140));
+}
